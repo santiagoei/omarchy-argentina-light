@@ -32,7 +32,7 @@ the neighborhoods, Mar del Plata), Iguazú, El Calafate, Aconcagua, Los
 Alerces, Jujuy's Siete Colores, the seven lakes of Neuquén,
 Córdoba, a map, and a Buenos Aires mural. Filenames carry their priority tier,
 so the alphabetical cycle runs first-pick first:
-`01_arg_tierradelfuego_glaciar.jpg` opens the theme. The dark sister
+`01_arg_tierradelfuego_glaciar.webp` opens the theme. The dark sister
 shares this exact pool, renumbered around its own opener.
 
 ## Sister theme
